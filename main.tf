@@ -5,7 +5,7 @@ resource "aws_vpc" "KCVPC" {
   #instance_tenancy = "default"
 
   tags = {
-    Name = "KCVPC"
+    Name = "MideVPCxyz"
   }
 }
 
